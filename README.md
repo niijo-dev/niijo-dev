@@ -1,77 +1,53 @@
-<!-- AI Education Nepal – Professional README -->
-<!-- MIT © 2025 AI Education Nepal -->
+<!-- AI Education Nepal – Pre-Launch README -->
+<!-- Private repo – not yet public -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=111&center=true&width=435&lines=AI+Education+Nepal" />
+# AI Education Nepal
 
-**Empowering Nepalese students with world-class AI knowledge.**  
-*Kathmandu, Nepal · est. 2025*
+**Bridging the AI skills gap in Nepal**  
+*Pre-launch. Cohort #1 opens August 2025.*
 
 </div>
 
 ---
 
-### 1. Overview
-AI Education Nepal is a **non-profit educational initiative** that delivers **industry-aligned, cohort-based AI courses** specifically designed for the Nepalese market.
+### Problem
+Nepal produces 4 k+ CS graduates yearly, yet < 5 % have practical AI experience.  
+Local companies import talent or outsource. Students lack **guided, affordable paths** into AI.
 
-| Metric | Value |
-|--------|-------|
-| Status | 🟢 Active & enrolling |
-| Cohorts | 150 students (Phase 1, 2025) |
-| Languages | English, Nepali |
-| Pricing | Subsidised & scholarships available |
+### Solution
+Deliver **Nepal-specific, project-based AI training** in three phases:
 
----
-
-### 2. Curriculum
-| Phase | Title | Status | Launch |
-|-------|-------|--------|--------|
-| **1** | AI Tools Fundamentals | ✅ Live | Q1 2025 |
-| **2** | Advanced AI Technologies | 🔜 Beta | Q3 2025 |
-| **3** | AI Specialization Tracks | 🗓️ Planned | Q1 2026 |
-
-<details>
-<summary>Syllabus snapshot – Phase 1</summary>
-
-- Conversational AI (ChatGPT, Claude)  
-- Image generation (DALL-E, Midjourney, Stable Diffusion)  
-- Business process automation with LLMs  
-- Ethics, cost control, and deployment basics  
-
-</details>
+| Phase | Content | Status |
+|-------|---------|--------|
+| **1** | AI Tools Fundamentals (ChatGPT, diffusion models, automation) | Curriculum complete |
+| **2** | Advanced AI & LLM Engineering | In design |
+| **3** | Specialization tracks (CV, NLP, MLOps) | Road-mapped |
 
 ---
 
-### 3. Team
-| Founder | Role | Background |
-|---------|------|------------|
-| **Rajan Neupane** | Co-Founder & Lead Educator | Ex-World Bank, MSc AI |
-| **Mukesh Adhikari** | Co-Founder & Technical Lead | Ex-IBM, MLOps & LLM specialist |
+### Team
+- **Rajan Neupane** – ex-World Bank data scientist, MSc AI  
+- **Mukesh Adhikari** – ex-IBM engineer, LLM deployment specialist  
+
+### Current Status
+- ✅ Curriculum v1 finalized  
+- ✅ Landing page & wait-list live  
+- 🔄 Pilot cohort (20 students) – **August 2025**  
+- 🔄 Pre-seed fundraising – raising USD 40 k  
 
 ---
 
-### 4. Get Involved
-- **Students** – [Apply](https://aieducationnepal.com/apply)  
-- **Mentors** – email: `mentor@aieducationnepal.com`  
-- **Partnerships** – email: `partner@aieducationnepal.com`
-
----
-
-### 5. Roadmap
-- **2025**: 500+ students, industry mentorship program  
-- **2026**: R&D lab, Kathmandu & Pokhara campuses, accredited certification  
-
----
-
-### 6. License & Legal
-Content © AI Education Nepal 2025.  
-Licensed under [MIT](LICENSE). Brand assets are trademarked.
+### Get Early Access
+- **Students** – join wait-list: [aieducationnepal.com](https://aieducationnepal.com)  
+- **Mentors / Advisors** – email: `team@aieducationnepal.com`  
+- **Investors / Partners** – deck on request
 
 ---
 
 <div align="center">
 
-[Website](https://aieducationnepal.com) • [LinkedIn](https://linkedin.com/company/aieducationnepal) • [GitHub](https://github.com/aieducationnepal)
+[Website](https://aieducationnepal.com) • [LinkedIn](https://linkedin.com/company/aieducationnepal) • [Contact](mailto:team@aieducationnepal.com)
 
 </div>
