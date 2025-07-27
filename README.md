@@ -1,53 +1,158 @@
-<!-- AI Education Nepal – Pre-Launch README -->
-<!-- Private repo – not yet public -->
-
-<div align="center">
-
 # AI Education Nepal
 
-**Bridging the AI skills gap in Nepal**  
-*Pre-launch. Cohort #1 opens August 2025.*
-
+<div align="center">
+  <img src="https://via.placeholder.com/200x80?text=AI+Education+Nepal" alt="AI Education Nepal Logo" />
+  
+  **Empowering Nepal's Young Minds with AI Education**
+  
+  [![Website](https://img.shields.io/badge/Website-aieducationnepal.com-blue)](https://aieducationnepal.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://linkedin.com/company/aieducationnepal)
+  [![Email](https://img.shields.io/badge/Contact-team%40aieducationnepal.com-red)](mailto:team@aieducationnepal.com)
+  
+  *Pre-Launch Phase - Courses launching August 2025*
 </div>
 
 ---
 
-### Problem
-Nepal produces 4 k+ CS graduates yearly, yet < 5 % have practical AI experience.  
-Local companies import talent or outsource. Students lack **guided, affordable paths** into AI.
+## 🎯 Mission Statement
 
-### Solution
-Deliver **Nepal-specific, project-based AI training** in three phases:
+Introducing AI education to Nepal's school students, building foundational knowledge and critical thinking skills that will prepare the next generation for an AI-driven future.
 
-| Phase | Content | Status |
-|-------|---------|--------|
-| **1** | AI Tools Fundamentals (ChatGPT, diffusion models, automation) | Curriculum complete |
-| **2** | Advanced AI & LLM Engineering | In design |
-| **3** | Specialization tracks (CV, NLP, MLOps) | Road-mapped |
+## 📊 The Opportunity We're Addressing
 
----
+Nepal's education system needs early AI literacy:
 
-### Team
-- **Rajan Neupane** – ex-World Bank data scientist, MSc AI  
-- **Mukesh Adhikari** – ex-IBM engineer, LLM deployment specialist  
+- **Limited AI awareness** among school students (grades 6-12)
+- **Growing demand** for digital literacy and future-ready skills
+- **Gap between traditional curriculum** and modern technology needs
+- **Opportunity to build AI literacy** from an early age
+- **Preparing students** for higher education and careers in technology
 
-### Current Status
-- ✅ Curriculum v1 finalized  
-- ✅ Landing page & wait-list live  
-- 🔄 Pilot cohort (20 students) – **August 2025**  
-- 🔄 Pre-seed fundraising – raising USD 40 k  
+## 💡 Our Solution
 
----
+We provide **age-appropriate, engaging AI education** for school students through structured courses designed for different grade levels, making AI accessible and understandable for young learners.
 
-### Get Early Access
-- **Students** – join wait-list: [aieducationnepal.com](https://aieducationnepal.com)  
-- **Mentors / Advisors** – email: `team@aieducationnepal.com`  
-- **Investors / Partners** – deck on request
+### 📚 Course Structure
 
----
+| Grade Level | Course Focus | Duration | Target Skills | Status |
+|-------------|--------------|----------|---------------|--------|
+| **Grades 6-8** | AI Basics & Fun Applications<br/>• What is AI?<br/>• AI in Daily Life<br/>• Simple AI Tools<br/>• Creative Projects | 6 weeks | Foundation & Curiosity | 🔄 **Developing** |
+| **Grades 9-10** | AI Tools & Applications<br/>• Understanding Machine Learning<br/>• AI Tools Exploration<br/>• Problem-Solving with AI<br/>• Digital Ethics | 8 weeks | Application & Analysis | 🔄 **Developing** |
+| **Grades 11-12** | Advanced AI Concepts<br/>• Programming Basics<br/>• AI Project Development<br/>• Data Science Introduction<br/>• Career Pathways in AI | 10 weeks | Creation & Implementation | 🔄 **Developing** |
+
+### 🎯 Key Features
+
+- **Age-Appropriate Content**: Curriculum designed specifically for each grade level
+- **Interactive Learning**: Hands-on activities, games, and practical exercises
+- **Local Context**: Examples and projects relevant to Nepali students
+- **Future-Ready Skills**: Building foundation for higher education and careers
+- **Engaging Delivery**: Making AI education fun and accessible
+
+## 👨‍💼 Founding Team
+
+### Rajan Neupane - Co-Founder & Chief Academic Officer
+- **Background**: Former World Bank Data Scientist
+- **Education**: MSc in Artificial Intelligence
+- **Expertise**: Educational Curriculum Design, AI/ML, Youth Education
+
+### Mukesh Adhikari - Co-Founder & Chief Technology Officer
+- **Background**: Former IBM Engineer
+- **Expertise**: AI Systems, Educational Technology, Student Engagement Platforms
+- **Focus**: Technology infrastructure and course delivery systems
+
+## 📈 Current Status & Roadmap
+
+### ✅ Foundation Phase (Completed)
+- Market research and needs assessment
+- Initial curriculum framework development
+- Team formation and vision alignment
+- Educational approach and methodology design
+
+### 🔄 Development Phase (Current - July 2025)
+- **Course Content Creation** for all three grade levels
+- **Platform Development** - Learning management system setup
+- **Pilot Program Planning** - Selecting initial schools/students
+- **Instructor Training Materials** development
+
+### 📅 Launch Phase (August 2025)
+- **Pilot Launch** with select schools in Kathmandu
+- **Student Registration** opens for all grade levels
+- **First Cohorts Begin** - 20-30 students per grade level
+- **Feedback Collection** and course refinement
+
+### 🚀 Growth Phase (Q4 2025 - 2026)
+- Scale to additional cities across Nepal
+- Expand to 200+ students across all grade levels
+- Develop advanced modules and supplementary materials
+- Build partnerships with schools and educational institutions
+
+## 🎓 Course Offerings
+
+### **Grades 6-8: "AI Explorers"**
+Perfect introduction to AI concepts through stories, games, and simple activities. Students discover how AI works in their daily lives and create their first AI-powered projects.
+
+### **Grades 9-10: "AI Innovators"**
+Deeper exploration of AI tools and applications. Students learn to use AI for problem-solving, understand the technology behind popular AI applications, and explore ethical considerations.
+
+### **Grades 11-12: "AI Pioneers"**
+Advanced preparation for higher education and careers. Students learn programming basics, develop AI projects, and explore pathways into technology careers.
+
+## 🚀 Get Involved
+
+### 🎓 For Students & Parents
+Ready to give your child a head start in the AI era? Join our waitlist for early access and course updates.
+
+**[Join Waitlist →](https://aieducationnepal.com)**
+
+### 🏫 For Schools & Educators
+Interested in bringing AI education to your institution? We're seeking partner schools for our pilot program.
+
+**Email us:** `schools@aieducationnepal.com`
+
+### 👨‍🏫 For Education Professionals
+Help us shape AI education for Nepal's youth. We're looking for educators passionate about technology and student development.
+
+**Email us:** `team@aieducationnepal.com`
+
+### 💼 For Investors & Partners
+Support the future of education in Nepal. Request our pitch deck and learn about partnership opportunities.
+
+**Contact:** `partnerships@aieducationnepal.com`
+
+## 🌟 Why AI Education Nepal?
+
+- **Age-Appropriate Learning**: Carefully designed curriculum for each grade level
+- **Future-Ready Skills**: Preparing students for tomorrow's opportunities
+- **Local Relevance**: Content that connects with Nepali students' experiences
+- **Expert Instruction**: Led by professionals with real-world AI experience
+- **Early Advantage**: Give your child a competitive edge in the digital future
+
+## 📞 Contact Information
 
 <div align="center">
 
-[Website](https://aieducationnepal.com) • [LinkedIn](https://linkedin.com/company/aieducationnepal) • [Contact](mailto:team@aieducationnepal.com)
+**AI Education Nepal**  
+Empowering Nepal's Young Minds with AI Education
+
+---
+
+🌐 **Website**: [aieducationnepal.com](https://aieducationnepal.com)  
+💼 **LinkedIn**: [linkedin.com/company/aieducationnepal](https://linkedin.com/company/aieducationnepal)  
+📧 **General Inquiries**: team@aieducationnepal.com  
+🏫 **School Partnerships**: schools@aieducationnepal.com  
+🤝 **Business Partnerships**: partnerships@aieducationnepal.com
+
+---
+
+*© 2025 AI Education Nepal. All rights reserved.*
 
 </div>
+
+---
+
+## 📄 Repository Information
+
+**Status**: Private Repository - Pre-Launch Development Phase  
+**Target Launch**: August 2025  
+**Current Focus**: Curriculum Development & Pilot Program Preparation  
+**Last Updated**: July 2025
