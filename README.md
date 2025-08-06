@@ -102,22 +102,22 @@ Advanced preparation for higher education and careers. Students learn programmin
 ### 🎓 For Students & Parents
 Ready to give your child a head start in the AI era? Join our waitlist for early access and course updates.
 
-**[Join Waitlist →](https://aieducationnepal.com)**
+**[Join Waitlist →](https://niijo.com)**
 
 ### 🏫 For Schools & Educators
 Interested in bringing AI education to your institution? We're seeking partner schools for our pilot program.
 
-**Email us:** `schools@aieducationnepal.com`
+**Email us:** `schools@niijo.com`
 
 ### 👨‍🏫 For Education Professionals
 Help us shape AI education for Nepal's youth. We're looking for educators passionate about technology and student development.
 
-**Email us:** `team@aieducationnepal.com`
+**Email us:** `team@niijo.com`
 
 ### 💼 For Investors & Partners
 Support the future of education in Nepal. Request our pitch deck and learn about partnership opportunities.
 
-**Contact:** `partnerships@aieducationnepal.com`
+**Contact:** `partnerships@niijo.com`
 
 ## 🌟 Why AI Education Nepal?
 
@@ -136,15 +136,15 @@ Empowering Nepal's Young Minds with AI Education
 
 ---
 
-🌐 **Website**: [aieducationnepal.com](https://aieducationnepal.com)  
-💼 **LinkedIn**: [linkedin.com/company/aieducationnepal](https://linkedin.com/company/aieducationnepal)  
-📧 **General Inquiries**: team@aieducationnepal.com  
-🏫 **School Partnerships**: schools@aieducationnepal.com  
-🤝 **Business Partnerships**: partnerships@aieducationnepal.com
+🌐 **Website**: [aieducationnepal.com](https://niijo.io)  
+💼 **LinkedIn**: [linkedin.com/company/aieducationnepal](https://linkedin.com/company/niijo)  
+📧 **General Inquiries**: team@niijo.com  
+🏫 **School Partnerships**: schools@niijo.com  
+🤝 **Business Partnerships**: partnerships@niijo.com
 
 ---
 
-*© 2025 AI Education Nepal. All rights reserved.*
+*© 2025 Niijo. All rights reserved.*
 
 </div>
 
