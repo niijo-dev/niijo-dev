@@ -1,7 +1,7 @@
 # Niijo
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x80?text=AI+Education+Nepal" alt="AI Education Nepal Logo" />
+  <img src="logo.png" alt="Niijo Logo" />
   
   **Empowering Nepal's Young Minds with AI Education**
   
