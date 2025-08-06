@@ -1,11 +1,11 @@
-# AI Education Nepal
+# Niijo
 
 <div align="center">
   <img src="https://via.placeholder.com/200x80?text=AI+Education+Nepal" alt="AI Education Nepal Logo" />
   
   **Empowering Nepal's Young Minds with AI Education**
   
-  [![Website](https://img.shields.io/badge/Website-aieducationnepal.com-blue)](https://aieducationnepal.com)
+  [![Website](https://img.shields.io/badge/Website-aieducationnepal.com-blue)](https://niijo.io.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://linkedin.com/company/aieducationnepal)
   [![Email](https://img.shields.io/badge/Contact-team%40aieducationnepal.com-red)](mailto:team@aieducationnepal.com)
   
