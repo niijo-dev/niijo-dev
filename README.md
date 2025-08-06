@@ -5,9 +5,9 @@
   
   **Empowering Nepal's Young Minds with AI Education**
   
-  [![Website](https://img.shields.io/badge/Website-aieducationnepal.com-blue)](https://niijo.io.com)
+  [![Website](https://img.shields.io/badge/Website-niijo.io-blue)](https://niijo.io.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://linkedin.com/company/aieducationnepal)
-  [![Email](https://img.shields.io/badge/Contact-team%40aieducationnepal.com-red)](mailto:team@aieducationnepal.com)
+  [![Email](https://img.shields.io/badge/Contact-team%40niijo.com-red)](mailto:team@niijo.com)
   
   *Pre-Launch Phase - Courses launching August 2025*
 </div>
