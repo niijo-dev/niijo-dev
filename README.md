@@ -51,14 +51,9 @@ We provide **age-appropriate, engaging AI education** for school students throug
 ## 👨‍💼 Founding Team
 
 ### Rajan Neupane - Co-Founder & Chief Academic Officer
-- **Background**: Former World Bank Data Scientist
-- **Education**: MSc in Artificial Intelligence
-- **Expertise**: Educational Curriculum Design, AI/ML, Youth Education
+
 
 ### Mukesh Adhikari - Co-Founder & Chief Technology Officer
-- **Background**: Former IBM Engineer
-- **Expertise**: AI Systems, Educational Technology, Student Engagement Platforms
-- **Focus**: Technology infrastructure and course delivery systems
 
 ## 📈 Current Status & Roadmap
 
