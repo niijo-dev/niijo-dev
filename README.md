@@ -1,4 +1,4 @@
-# Niijo
+
 
 <div align="center">
   <img src="logo.png" alt="Niijo Logo" />
