@@ -149,10 +149,3 @@ Empowering Nepal's Young Minds with AI Education
 </div>
 
 ---
-
-## 📄 Repository Information
-
-**Status**: Private Repository - Pre-Launch Development Phase  
-**Target Launch**: August 2025  
-**Current Focus**: Curriculum Development & Pilot Program Preparation  
-**Last Updated**: July 2025
