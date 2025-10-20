@@ -136,8 +136,8 @@ Empowering Nepal's Young Minds with AI Education
 
 ---
 
-🌐 **Website**: [aieducationnepal.com](https://niijo.io)  
-💼 **LinkedIn**: [linkedin.com/company/aieducationnepal](https://linkedin.com/company/niijo)  
+🌐 **Website**: [niijo.io](https://niijo.io)  
+💼 **LinkedIn**: [linkedin.com/company/Niijo](https://linkedin.com/company/niijo)  
 📧 **General Inquiries**: team@niijo.com  
 🏫 **School Partnerships**: schools@niijo.com  
 🤝 **Business Partnerships**: partnerships@niijo.com
