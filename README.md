@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="logo.png" alt="Niijo Logo" />
+  <img src="niijo.jpeg" alt="Niijo Logo" />
   
   **Empowering Nepal's Young Minds with AI Education**
 
